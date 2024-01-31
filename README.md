@@ -22,5 +22,5 @@ A comprehensive model for recognizing handwritten digits (0-9) using computer vi
 
 # Application and Future Scope
 
--This model can be integrated into various applications like digital document analysis, automated form processing, etc.
+- This model can be integrated into various applications like digital document analysis, automated form processing, etc.
 - Future enhancements could include experimenting with different neural network architectures or more complex datasets.
